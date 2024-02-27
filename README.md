@@ -1,4 +1,4 @@
-# iOS-Swift-The-Complete-iOS-App-Development-Bootcamp
+# iOS Swift: The Complete iOS App Development Bootcamp
 
 ## Description
 Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy!
