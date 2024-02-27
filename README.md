@@ -47,7 +47,7 @@ Control Structures: Using If/­Else clauses, Switch statements and logic to cont
 
 Data Structures: How to work with collections, such as arrays and dictionaries.
 
-Software Design: How to organise and format code for readability and how to implement the Model ­View­ Controller (MVC) design pattern, Apple's favourite delegation pattern and the publisher pattern.
+Software Design: How to organize and format code for readability and how to implement the Model ­View­ Controller (MVC) design pattern, Apple's favourite delegation pattern and the publisher pattern.
 
 Networking: How to make asynchronous API calls, store and retrieve data from the cloud, and use the JSON format for server communication.
 
@@ -65,4 +65,7 @@ SwiftUI: How to use Apple's brand new UI framework to create user interfaces pro
 If you are an absolute beginner to coding, then take this course.
 If you are a seasoned programmer, then take this course to to get up to speed quickly with Swift 5.1 and native app development. Start with the Xcode walkthrough lesson and we'll get you familiar with iOS development in no time!
 If you are switching from Objective-C to Swift then this is a fast-track way of doing it. You can get started straight away with the Intermediate Swift Language module.
-If you are a pro iOS developer and want to quickly get up to date with Apple's latest technology, then start with the modules on SwiftUI, ARKit and CoreML.
+If you are a pro-iOS developer and want to quickly get up to date with Apple's latest technology, then start with the modules on SwiftUI, ARKit and CoreML.
+
+## Resources
+- https://www.appbrewery.co/p/ios-course-resources/
